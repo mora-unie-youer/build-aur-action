@@ -2,7 +2,7 @@
 
 ## Example usage
 ```yaml
-uses: antman666/build-aur-action@master
+uses: mora-unie-youer/build-aur-action@master
 with:
   repo-name: linux-ck-uksm
 ```
